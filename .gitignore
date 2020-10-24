@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# nupack3 output
+*.txt
+*.mfe
+
 # C extensions
 *.so
 
