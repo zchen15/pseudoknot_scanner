@@ -6,6 +6,7 @@ __pycache__/
 # nupack3 output
 *.txt
 *.mfe
+*.npy
 
 # C extensions
 *.so
